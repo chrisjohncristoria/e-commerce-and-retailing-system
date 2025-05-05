@@ -11,7 +11,7 @@ namespace Ecommerce.Admin
 {
 
 
-    public partial class Contact
+    public partial class ProductList
     {
     }
 }
